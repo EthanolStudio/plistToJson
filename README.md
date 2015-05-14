@@ -1,7 +1,7 @@
 # plistToJson
-Convert the OS X written plist xml to JSON format  very simple app
-![plist edited](url "http://www.ethanolstudio.com/plisttojson/readme1.png")
-![open in plisttojson](url "http://www.ethanolstudio.com/plisttojson/readme2.png")
-![converted to json](url "http://www.ethanolstudio.com/plisttojson/readme3.png")
-
-Demo download : [plistToJson.app](url "http://www.ethanolstudio.com/plisttojson/plistToJson.app.zip") 
+Convert the OS X written plist xml to JSON format<br>very simple app<br>
+![plist edited](url "readme/readme1.png")<br>
+![open in plisttojson](url "readme/readme2.png")<br>
+![converted to json](url "readme/readme3.png")<br>
+<br>
+Demo download : [plistToJson.app](url "readme/plistToJson.app.zip") 
